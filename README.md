@@ -14,3 +14,4 @@ PHP 7.4.32
 - php artisan migrate:refresh --seed
 
 - php artisan serve
+ (web will run on http://localhost:8000)
